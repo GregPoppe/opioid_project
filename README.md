@@ -1,9 +1,13 @@
 # Opioid Trends
-Trends in Opioid Use and Addiction by Geographical Regions
+**Trends in Opioid Use and Addiction by Geographical Regions**
 
-Team Members: Greg, Mark, Deep, Vannia
+**Team Members: Greg, Deep, Vannia, Mark**
 
-For details for the project, please see **Opioid_Crisis.pptxbb**
+For project details and presentation, please see **Opioid_Crisis.pptxbb**
+
+#### The folowing modules are required to generate some project charts
+   * **seaborn** : version 0.9.0 or later
+   * **folium** : https://pypi.org/project/folium/
 
 ## Repository structure
 * Top Level : Data aquisition and processing notebooks
