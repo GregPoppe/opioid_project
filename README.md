@@ -43,3 +43,12 @@ For project details and presentation, please see **Opioid_Crisis.pptxbb**
    * **FIPs.CSV** : Map of state/district FIPS ID to state names
 ### Charts Folder Files
    * Plot images used in presentation
+
+   Adams Comments: (start with #ADAM LUKE:)
+      File:                                     Location of Comments: 
+      ProPublicaData_API_Calls.ipynb            block in [4]
+                                                4th coding block from top (not numbered)
+     
+      censusData.ipynb                          block in [3]
+
+      povertyAndOpiods.ipynb                    block in [8]
